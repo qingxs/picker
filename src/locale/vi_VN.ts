@@ -9,6 +9,7 @@ const locale: Locale = {
   clear: 'Xóa',
   month: 'Tháng',
   year: 'Năm',
+  week:'tuần',
   timeSelect: 'Chọn thời gian',
   dateSelect: 'Chọn ngày',
   weekSelect: 'Chọn tuần',
