@@ -20,6 +20,7 @@ export interface Locale {
   clear: string;
   month: string;
   year: string;
+  week: string;
   previousMonth: string;
   nextMonth: string;
   monthSelect: string;
